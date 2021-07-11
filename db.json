@@ -2,18 +2,22 @@
   "webs": [
     {
       "id": 1,
-      "link": "https://www.fib.upc.edu/ca"
+      "title": "Web Jedi",
+      "link": "https://jediupc.com"
     },
     {
       "id": 2,
-      "link": "https://fiberhub.cat"
+      "title": "Ghibli Music",
+      "link": "https://www.youtube.com/embed/P8j-_MOSrec"
     },
     {
       "id": 3,
-      "link": "https://dashboard.heroku.com"
+      "title": "Mapa",
+      "link": "https://www.openstreetmap.org/export/embed.html?bbox=-0.004017949104309083%2C51.47612752641776%2C0.00030577182769775396%2C51.478569861898606&layer=mapnik"
     },
     {
       "id": 4,
+      "title": "",
       "link": "https://app.netlify.com"
     }
   ]
